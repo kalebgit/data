@@ -115,3 +115,6 @@ tmp/
 temp/
 *.bak
 *.backup
+
+# Volumenes de datos de contenedores (Postgres, etc.)
+taxis_data/
